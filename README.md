@@ -12,9 +12,8 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40helitonoliveira-blue)](https://www.linkedin.com/in/helitonoliveira/)
 
   <p align="right">
+    <span align="left"> Aplicação desenvolvida na Semana OmniStack!</span>
     <img alt="bethehero mobile" src=".github/phone.png" height="300px" />
   </p>
 
-  <p align="left">
-    Aplicação desenvolvida na Semana OmniStack!
-  </p>
+
