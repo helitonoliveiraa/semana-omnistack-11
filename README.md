@@ -11,8 +11,11 @@
   [![Instagram](https://img.shields.io/badge/Instagram-%40black_3oy-purple)](https://www.instagram.com/black_3oy/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40helitonoliveira-blue)](https://www.linkedin.com/in/helitonoliveira/)
 
-  <p align="right">
-    <span align="left"> Aplicação desenvolvida na Semana OmniStack!</span>
+  <p> Aplicação desenvolvida na Semana OmniStack!</p>
+
+  <p align="center">
+    <img alt="mobile code"src=".github/code.png" width="400px"/>
+    &nbsp;
     <img alt="bethehero mobile" src=".github/phone.png" height="300px" />
   </p>
 
