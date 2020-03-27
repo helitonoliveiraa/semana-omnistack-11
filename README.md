@@ -11,8 +11,8 @@
   [![Instagram](https://img.shields.io/badge/Instagram-%40black_3oy-purple)](https://www.instagram.com/black_3oy/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40helitonoliveira-blue)](https://www.linkedin.com/in/helitonoliveira/)
 
-  <p align="right" height="300px">
-    <img alt="bethehero mobile" src=".github/phone.png" />
+  <p align="right">
+    <img alt="bethehero mobile" src=".github/phone.png" height="300px" />
   </p>
 
   <p align="left">
