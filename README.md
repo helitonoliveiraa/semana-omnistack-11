@@ -14,7 +14,7 @@
   <p> Aplicação desenvolvida na Semana OmniStack!</p>
 
   <p align="center">
-    <img alt="mobile code"src=".github/code.png" width="400px"/>
+    <img alt="mobile code"src=".github/code.png" width="600px"/>
     &nbsp;
     <img alt="bethehero mobile" src=".github/phone.png" height="300px" />
   </p>
