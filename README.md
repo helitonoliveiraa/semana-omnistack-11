@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="beTheHero" src=".github/logo.png" width="300px"  />
+  <img alt="beTheHero" src=".github/logo.png" width="400px"  />
 </h1>
 
 <h1 align="center"> semana-omnistack-11 </h1>
@@ -11,7 +11,10 @@
   [![Instagram](https://img.shields.io/badge/Instagram-%40black_3oy-purple)](https://www.instagram.com/black_3oy/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40helitonoliveira-blue)](https://www.linkedin.com/in/helitonoliveira/)
 
-  <p align="right">
+  <p align="right" height="300px">
     <img alt="bethehero mobile" src=".github/phone.png" />
   </p>
 
+  <p align="left">
+    Aplicação desenvolvida na Semana OmniStack!
+  </p>
