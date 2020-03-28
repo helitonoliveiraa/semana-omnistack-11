@@ -12,6 +12,7 @@
   [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
   [![Instagram](https://img.shields.io/badge/Instagram-%40black_3oy-purple)](https://www.instagram.com/black_3oy/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40helitonoliveira-blue)](https://www.linkedin.com/in/helitonoliveira/)
+   [![Rockeseat](https://img.shields.io/badge/Rocketsear-%40rocketseat-purple)](https://rocketseat.com.br/)
 
   <p> Aplicação desenvolvida na Semana OmniStack!</p>
 
