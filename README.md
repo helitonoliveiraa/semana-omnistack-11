@@ -1,7 +1,7 @@
 <h1 align="center">
   <img alt="beTheHero" src=".github/logo.png" width="600px"  />
     &nbsp;
-  <img alt="bethehero mobile" src=".github/phone.png" height="300px" />
+  <img alt="bethehero mobile" src=".github/phone.png" height="400px" />
 </h1>
 
 <h1 align="center"> semana-omnistack-11 </h1>
