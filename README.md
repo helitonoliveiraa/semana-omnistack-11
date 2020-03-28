@@ -1,5 +1,7 @@
 <h1 align="center">
-  <img alt="beTheHero" src=".github/logo.png" width="400px"  />
+  <img alt="beTheHero" src=".github/logo.png" width="600px"  />
+    &nbsp;
+  <img alt="bethehero mobile" src=".github/phone.png" height="300px" />
 </h1>
 
 <h1 align="center"> semana-omnistack-11 </h1>
@@ -14,9 +16,9 @@
   <p> Aplicação desenvolvida na Semana OmniStack!</p>
 
   <p align="center">
-    <img alt="mobile code"src=".github/code.png" width="600px"/>
-    &nbsp;
-    <img alt="bethehero mobile" src=".github/phone.png" height="300px" />
+    
+
+    
   </p>
 
 
