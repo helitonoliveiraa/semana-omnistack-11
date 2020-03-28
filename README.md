@@ -15,14 +15,34 @@
 
   <p> Aplicação desenvolvida na Semana OmniStack!</p>
 
- # Configurações de desenvolvimento
+ ### Configurações de desenvolvimento
 
  <p>Necessário ter o <b>yarn</b> instalado!</p>
 
 <p>
-Clone o repositório na sua maquina:<br />
-<b>SSH:</b> git@github.com:heliton1988/semana-omnistack-11.git
-<b>HTTPS:</b> https://github.com/heliton1988/semana-omnistack-11.git
+  Clone o repositório na sua maquina:<br />
+  <b>SSH:</b> git@github.com:heliton1988/semana-omnistack-11.git <br />
+  <b>HTTPS:</b> https://github.com/heliton1988/semana-omnistack-11.git
 </p>
 
+##### Para rodar o server
 
+<ul>
+  <li>Dentro da pasta "backend" rode "yarn" no terminal</li>
+  <li>Na raiz da pasta backend rode "yarn dev"</li>
+</UL>
+
+##### Para subir o frontend web
+
+<ul>
+  <li>Dentro da pasra "frontend" rode "yarn" no terminal</li>
+  <li>Na raiz da pasta "frontend" rode "yarn start"</li>
+</ul>
+
+
+##### Para rodar o mobile
+
+<ul>
+  <li>Dentro da pasta "mobile" rode "yarn" no terminal</li>
+  <li>Na raiz "mobile" rode "yarn start"</li>
+</ul>
