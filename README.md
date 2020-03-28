@@ -1,7 +1,7 @@
 <h1 align="center">
   <img alt="beTheHero" src=".github/logo.png" width="600px"  />
     &nbsp;
-  <img alt="bethehero mobile" src=".github/phone.png" height="400px" />
+  <img alt="bethehero mobile" src=".github/phone.png" height="320px" />
 </h1>
 
 <h1 align="center"> semana-omnistack-11 </h1>
@@ -15,10 +15,14 @@
 
   <p> Aplicação desenvolvida na Semana OmniStack!</p>
 
-  <p align="center">
-    
+ # Configurações de desenvolvimento
 
-    
-  </p>
+ <p>Necessário ter o <b>yarn</b> instalado!</p>
+
+<p>
+Clone o repositório na sua maquina:<br />
+<b>SSH:</b> git@github.com:heliton1988/semana-omnistack-11.git
+<b>HTTPS:</b> https://github.com/heliton1988/semana-omnistack-11.git
+</p>
 
 
