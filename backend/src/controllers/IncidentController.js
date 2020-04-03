@@ -1,24 +1,24 @@
-const connection = require('../database/connection');
+import connection from '../database/connection';
 
-module.exports = {
+export default {
   async index(req, res) {
     const { page = 1 } = req.query;
 
     const [count] = await connection('incidents').count();
 
-    const incidents = await  connection('incidents')
-    //<join> usado para relacionar dados entre tabelas
-    .join('ongs', 'ongs.id', '=', 'incidents.ong_id')
-    .limit(5) // quantify limit of register per page
-    .offset((page - 1) * 5)
-    .select([
-      'incidents.*',
-      'ongs.name',
-      'ongs.email',
-      'ongs.whatsapp',
-      'ongs.city',
-      'ongs.uf'
-    ]);
+    const incidents = await connection('incidents')
+      // <join> usado para relacionar dados entre tabelas
+      .join('ongs', 'ongs.id', '=', 'incidents.ong_id')
+      .limit(5) // quantify limit of register per page
+      .offset((page - 1) * 5)
+      .select([
+        'incidents.*',
+        'ongs.name',
+        'ongs.email',
+        'ongs.whatsapp',
+        'ongs.city',
+        'ongs.uf',
+      ]);
 
     res.header('x-Total-Count', count['count(*)']);
 
@@ -42,7 +42,7 @@ module.exports = {
   async delete(req, res) {
     const { id } = req.params;
     const ong_id = req.headers.authorization;
-    
+
     const incident = await connection('incidents')
       .where('id', id)
       .select('ong_id')

@@ -1,18 +1,18 @@
-const gerenateUniqueId = require('../utils/generateUniqueId');
-const connection = require('../database/connection');
+import gerenateUniqueId from '../utils/generateUniqueId';
+import connection from '../database/connection';
 
-module.exports = {
+export default {
   async index(req, res) {
     const ongs = await connection('ongs').select('*');
-  
+
     return res.json(ongs);
   },
 
   async store(req, res) {
     const { name, email, whatsapp, city, uf } = req.body;
-  
+
     const id = gerenateUniqueId();
-  
+
     await connection('ongs').insert({
       id,
       name,
@@ -20,8 +20,8 @@ module.exports = {
       whatsapp,
       city,
       uf,
-    })
-  
+    });
+
     return res.json({ id });
-  }
+  },
 };
