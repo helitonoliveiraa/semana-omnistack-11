@@ -60,7 +60,7 @@ Necessário ter o **yarn** instalado!
   yarn start
 ```
 
-#### Para rodar o mobile
+#### 🚀 Para rodar o mobile
 
 ```bash
   # Dentro da pasta "mobile" rode: 
@@ -69,3 +69,5 @@ Necessário ter o **yarn** instalado!
   # Na raiz da pasta "mobile" rode: 
   yarn
 ```
+
+<p align="center">Com 💙 Héliton Oliveira</p>
