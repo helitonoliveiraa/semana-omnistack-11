@@ -53,7 +53,7 @@ Necessário ter o **yarn** instalado!
 
 
 ```bash
-  # Dentro da pasra "frontend" rode:
+  # Dentro da pasta "frontend" rode:
   yarn
 
   # Na raiz da pasta "frontend" rode: 
